@@ -1,6 +1,6 @@
 ## Vagrant OpenNebula playground
 
-Start an self contained OpenNebula LAB with 1 compute nodes and a frontend node - all using vagrant in one command.
+Start an self contained OpenNebula LAB with 1 compute nodes and a frontend node using vagrant.
 
 Status:
 
